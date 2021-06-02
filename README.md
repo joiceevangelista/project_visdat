@@ -69,7 +69,7 @@
 
 ### 3. Visualisasi data frekuensi gempa bumi di wilayah teritorial Indonesia per bulan dalam setahun, serta kategori day dan night
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna orange untuk kategori day (gempa bumi yang terjadi pada siang hari) dan warna biru untuk kategori night (gempa bumi yang terjadi pada malam hari).</p>
-![Day and Night](/img/daynight.png)
+![Day_Night](/img/daynight.png)
 
 ### 4. Visualisasi data magnitude gempa bumi di wilayah teritorial Indonesia dalam bentuk histogram
 
