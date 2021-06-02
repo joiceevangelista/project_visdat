@@ -39,7 +39,7 @@
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Data yang digunakan dalam penelitian ini merupakan data sekunder, yaitu Earthquake  Around Indonesian Territory dari Kaggle. Data ini juga dapat ditemukan di situs resmi Badan Meteorologi, Klimatologi, dan Geofisika (BMKG). Seperti judulnya, data ini berisi kejadian gempa bumi di sekitar wilayah Indonesia beserta keterangan waktu, lokasi, kedalaman dan besar magnitudonya dari tanggal 1 Januari 2017 hingga 12 April 2021.</p>
 
 ## B. Analisis Data
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Perancangan dilakukan dengan cara membuat mock up dari desain dashboard yang akan dibuat. </p>
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Metode analisis yang digunakan pada penelitian adalah analisis deskriptif dengan pendekatan kuantitatif.</p>
 
 ## C. Perancangan
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visualisasi data yang akan dibuat dalam penelitian ini adalah dashboard informasi. Perancangan dimulai dengan cara membuat mock up dari desain dashboard yang akan dibuat. Sebaran titik-titik gempa akan divisualisasikan dalam peta dengan titik koordinatnya (longitude dan latitude). Frekuensi gempa akan divisualisasikan dengan menggunakan bar chart, sementara sebaran magnitudo gempa divisualisasikan dengan histogram. Visualisasi ini kemudian akan di-filter berdasarkan tahunnya.</p>
