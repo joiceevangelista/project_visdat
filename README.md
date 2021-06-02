@@ -114,9 +114,9 @@ Berikut adalah tampilan dashboard yang sudah dibangun:
 
 <br></br>
 ## Kelompok 2 Tugas Akhir Mata Kuliah Visualisasi Data 3SD2
-- Daris Azhar	221810233 
-- Emir Lutfi	221810266
-- Joice Evangelista Lase	221810359
-- Muhammad Ibrah Reynaldi Tanjung	221810459
-- Talitha Nabila Saifana	221810619
-- Zuhrotur Rofiah	221810682
+- Daris Azhar	(221810233) 
+- Emir Lutfi	(221810266)
+- Joice Evangelista Lase	(221810359)
+- Muhammad Ibrah Reynaldi Tanjung	(221810459)
+- Talitha Nabila Saifana	(221810619)
+- Zuhrotur Rofiah	(221810682)
