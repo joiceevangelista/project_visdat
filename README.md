@@ -76,8 +76,10 @@
 ![Histogram](/img/histogram.png)
 
 ## C. Dashboard
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visualisasi data yang sudah dibuat selanjutnya akan diintegrasikan menjadi satu kesatuan dalam suatu dashboard. Dashboard yang dibuat akan ditampilkan pada aplikasi web menggunakan aplikasi Tableau Public yang linknya dapat diakses
-  [di sini](https://public.tableau.com/views/DashboardGempaDiBumiIndonesia/DS2017?:language=en-US&:display_count=ny&publish=yes&:toolbar=n&:origin=viz_share_link) . Berikut adalah tampilan dashboard yang sudah dibangun:</p>  
+Visualisasi data yang sudah dibuat selanjutnya akan diintegrasikan menjadi satu kesatuan dalam suatu dashboard. Dashboard yang dibuat akan ditampilkan pada aplikasi web menggunakan aplikasi Tableau Public yang linknya dapat diakses
+  [di sini](https://public.tableau.com/views/DashboardGempaDiBumiIndonesia/DS2017?:language=en-US&:display_count=n&:origin=viz_share_link "Dashboard Gempa Bumi").
+  <br></br>
+Berikut adalah tampilan dashboard yang sudah dibangun:
 
 ![Dashboard](/img/dashboard.png)
 
